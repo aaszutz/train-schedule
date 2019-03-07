@@ -1,0 +1,58 @@
+body { 
+    background-image: url(../images/background.jpg);
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+.bannerHeading {
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.headingBanner {
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.heading {
+    color:rgb(196, 112, 102);
+    opacity: .90;
+}
+
+.infoPanel {
+    margin-top: 20px;
+    background-color: slategray;    padding: 20px;
+    line-height: 1.26;
+    color: white;
+    border-radius: 25px;
+}
+
+.enterDataPanel {
+    margin-top: 20px;
+    background-color: white;
+    color: black;
+    line-height: 1.26;
+    padding: 20px;
+    opacity: 1;
+    margin-bottom: 20px;
+    border-radius: 25px;
+}
+
+#submitButton {
+    background-color: rgb(196, 112, 102);
+    color: white;
+}
+
+footer {
+    display: block;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+}
+
+
+
+
+
+
